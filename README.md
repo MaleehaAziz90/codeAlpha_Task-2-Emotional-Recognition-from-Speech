@@ -1,0 +1,2 @@
+# codeAlpha_Task-2-Emotional-Recognition-from-Speech
+# Emotion Recognition from Speech A DL project that classifies human emotions from speech audio using MFCC features and an LSTM Neural Network # Features - MFCC Feature Extraction,Chroma Features,Mel Spectrogra,LSTM Deep Learning Model,Accuracy/Loss Graphs,Prediction on Custom Audio # Dataset -RAVDESS,TESS,EMO#Emotions Angry,Happy,Fear,Surprise etc
